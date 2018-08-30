@@ -10,5 +10,5 @@ Choose the correct answer
 
 1) text
 2) range
-3) number
+3) number X
 4) select
